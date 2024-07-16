@@ -234,6 +234,12 @@ main > section{
     .footer-title{
         justify-items: center;
     }
+    .footer-section{
+      width: 70%;
+      display: flex;
+      margin-left: 55px;
+      
+    }
 }
 
 /* medium device */
